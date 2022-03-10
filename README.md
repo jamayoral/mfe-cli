@@ -14,7 +14,7 @@ npm i
 node index.js
 ```
 
-## Add generate to system and running standalone
+## Add CLI to the system and running standalone
 
 ```
 npm link
