@@ -22,7 +22,7 @@ To generate a new remote (MFE) run the following command:
 node index.js
 ```
 
-This will run a MFE CLI Generator (node app located in the `./index.js` directory) that will generate a new remote (MFE) based on a set of 3 questions. Under the hood this CLI Generator clones a [template repository](https://github.com/jamayoral/mfe-template) and renames the content of certain files to match the prompts.
+This will run a MFE CLI Generator (node app located in the `./index.js` directory) that will generate a new remote (MFE) based on a set of 3 questions. Under the hood this MFE CLI Generator clones a [template repository](https://github.com/jamayoral/mfe-template) and renames the content of certain files to match the prompts.
 
 After generating a new remote (MFE), make sure to update the port numbers, as follows:
 
